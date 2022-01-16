@@ -15,7 +15,7 @@ bool findPair(int arr[], int size, int n)
         else
             left++;
     }
-    return false;
+    return false; 
 }
 
 /*    Time Complexity : O(N.LogN)
